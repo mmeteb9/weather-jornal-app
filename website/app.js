@@ -1,6 +1,6 @@
 /* Global Variables */
-let baseURL = 'api.openweathermap.org/data/2.5/weather?zip='
-let apiKey = '&units=metric&appid=10ab18bd388af9cf08c03812ecb9a461';
+const baseURL = 'api.openweathermap.org/data/2.5/weather?zip='
+const apiKey = '&units=metric&appid=10ab18bd388af9cf08c03812ecb9a461';
 
 
 // Create a new date instance dynamically with JS
